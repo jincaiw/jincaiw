@@ -3,18 +3,18 @@
 Building tools with Go and Python. Focused on infrastructure, networking, and developer tooling.
 
 <!-- AUTO-GITHUB:START -->
-📦 **21** public repos · 👥 **8** followers · ⭐ **1** total stars
+📦 **21** public repos · 👥 **10** followers · ⭐ **1** total stars
 
 | Project | Description | Lang | ⭐ |
 |:--------|:------------|:----:|--:|
 | [Netconfighub](https://github.com/jincaiw/Netconfighub) | — | Go | 1 |
 | [mdtxt](https://github.com/jincaiw/mdtxt) | mdtxt - a bilingual cross-platform Markdown editor | TypeScript | 0 |
-| [mybooks](https://github.com/jincaiw/mybooks) | 多本书籍仓库，每本书独立维护，共享 CI/CD 流水线 | Python | 0 |
 | [jincaiw](https://github.com/jincaiw/jincaiw) | Personal profile and GitHub activity | Python | 0 |
+| [mybooks](https://github.com/jincaiw/mybooks) | 多本书籍仓库，每本书独立维护，共享 CI/CD 流水线 | Python | 0 |
 | [logcat](https://github.com/jincaiw/logcat) | Security log collection and management platform | Go | 0 |
 | [Pi-GUI](https://github.com/jincaiw/Pi-GUI) | — | TypeScript | 0 |
 
-<sub>🕐 Updated 2026-07-20 12:07 · Asia/Shanghai</sub>
+<sub>🕐 Updated 2026-07-27 12:05 · Asia/Shanghai</sub>
 <!-- AUTO-GITHUB:END -->
 
 <details>
