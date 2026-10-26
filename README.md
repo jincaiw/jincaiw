@@ -10,11 +10,11 @@ Building tools with Go and Python. Focused on infrastructure, networking, and de
 | [TextMark-v1](https://github.com/jincaiw/TextMark-v1) | TextMark cross-platform Markdown preview and editor | HTML | 1 |
 | [Netconfighub](https://github.com/jincaiw/Netconfighub) | — | Go | 1 |
 | [subtext](https://github.com/jincaiw/subtext) | A CotEditor-compatible macOS/Windows/Linux text editor built on GPUI Kit (Rust) | Rust | 0 |
+| [jincaiw](https://github.com/jincaiw/jincaiw) | Personal profile and GitHub activity | Python | 0 |
 | [cotedit](https://github.com/jincaiw/cotedit) | — | Rust | 0 |
 | [Mellow](https://github.com/jincaiw/Mellow) | — | TypeScript | 0 |
-| [moxie](https://github.com/jincaiw/moxie) | — | TypeScript | 0 |
 
-<sub>🕐 Updated 2026-10-19 12:48 · Asia/Shanghai</sub>
+<sub>🕐 Updated 2026-10-26 12:54 · Asia/Shanghai</sub>
 <!-- AUTO-GITHUB:END -->
 
 <details>
