@@ -3,7 +3,7 @@
 Building tools with Go and Python. Focused on infrastructure, networking, and developer tooling.
 
 <!-- AUTO-GITHUB:START -->
-📦 **30** public repos · 👥 **11** followers · ⭐ **2** total stars
+📦 **30** public repos · 👥 **10** followers · ⭐ **2** total stars
 
 | Project | Description | Lang | ⭐ |
 |:--------|:------------|:----:|--:|
@@ -14,7 +14,7 @@ Building tools with Go and Python. Focused on infrastructure, networking, and de
 | [cotedit](https://github.com/jincaiw/cotedit) | — | Rust | 0 |
 | [Mellow](https://github.com/jincaiw/Mellow) | — | TypeScript | 0 |
 
-<sub>🕐 Updated 2026-10-26 12:54 · Asia/Shanghai</sub>
+<sub>🕐 Updated 2026-11-02 14:16 · Asia/Shanghai</sub>
 <!-- AUTO-GITHUB:END -->
 
 <details>
