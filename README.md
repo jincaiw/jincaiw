@@ -3,18 +3,18 @@
 Building tools with Go and Python. Focused on infrastructure, networking, and developer tooling.
 
 <!-- AUTO-GITHUB:START -->
-📦 **30** public repos · 👥 **10** followers · ⭐ **2** total stars
+📦 **30** public repos · 👥 **10** followers · ⭐ **3** total stars
 
 | Project | Description | Lang | ⭐ |
 |:--------|:------------|:----:|--:|
 | [TextMark-v1](https://github.com/jincaiw/TextMark-v1) | TextMark cross-platform Markdown preview and editor | HTML | 1 |
+| [subtext](https://github.com/jincaiw/subtext) | A CotEditor-compatible macOS/Windows/Linux text editor built on GPUI Kit (Rust) | Rust | 1 |
 | [Netconfighub](https://github.com/jincaiw/Netconfighub) | — | Go | 1 |
-| [subtext](https://github.com/jincaiw/subtext) | A CotEditor-compatible macOS/Windows/Linux text editor built on GPUI Kit (Rust) | Rust | 0 |
+| [Mellow](https://github.com/jincaiw/Mellow) | — | TypeScript | 0 |
 | [jincaiw](https://github.com/jincaiw/jincaiw) | Personal profile and GitHub activity | Python | 0 |
 | [cotedit](https://github.com/jincaiw/cotedit) | — | Rust | 0 |
-| [Mellow](https://github.com/jincaiw/Mellow) | — | TypeScript | 0 |
 
-<sub>🕐 Updated 2026-11-02 14:16 · Asia/Shanghai</sub>
+<sub>🕐 Updated 2026-11-09 14:44 · Asia/Shanghai</sub>
 <!-- AUTO-GITHUB:END -->
 
 <details>
